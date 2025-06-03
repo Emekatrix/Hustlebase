@@ -1,2 +1,2 @@
-# Lindiquatoe_app
+# Lindicator_app
 Lead tracking app
