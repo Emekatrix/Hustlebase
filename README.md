@@ -1,2 +1,2 @@
-# Maiday_app
-Gift card app
+# Lindiquatoe_app
+Lead tracking app
