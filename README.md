@@ -1,2 +1,2 @@
-# Lindicator_app
-Lead tracking app
+# Hustlebase_app
+Deal trading app
