@@ -1,2 +1,2 @@
-# Hustlebase_app
+# Hustlebase_mvp
 Deal trading app
